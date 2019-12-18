@@ -13,4 +13,4 @@ Node MongoDB Admin Panel using mongoose body-parser pug(view engine)
 ### Dev mode
 ```npm run dev```
 ### Demo
-![alt text](https://user-images.githubusercontent.com/16520789/70979575-ddd4f500-20d7-11ea-8fb2-cac15e3bc730.png" Node File Explorer")
+![alt text](https://user-images.githubusercontent.com/16520789/71093242-d5131a80-21ce-11ea-8621-4682c975cd20.png "Node File Explorer")
